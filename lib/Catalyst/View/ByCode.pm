@@ -1,5 +1,5 @@
 package Catalyst::View::ByCode;
-$Catalyst::View::ByCode::VERSION = '0.25';
+$Catalyst::View::ByCode::VERSION = '0.26';
 use Moose;
 extends 'Catalyst::View';
 with 'Catalyst::Component::ApplicationAttribute';
@@ -41,7 +41,7 @@ Catalyst::View::ByCode - Templating using pure Perl code
 
 =head1 VERSION
 
-version 0.25
+version 0.26
 
 =head1 SYNOPSIS
 

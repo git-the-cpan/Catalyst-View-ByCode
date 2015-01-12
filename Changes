@@ -1,5 +1,8 @@
 Revision history for Catalyst-View-ByCode
 
+0.26    2015-01-12
+        * added a mocked $c->stash() method to make failing tests work again
+
 0.25    2014-03-19
         * Tag attributes with undef value are rendered without value
         * expanded attr() to allow a single setter argument to set an

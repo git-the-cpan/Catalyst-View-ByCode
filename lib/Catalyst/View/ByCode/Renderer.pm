@@ -1,5 +1,5 @@
 package Catalyst::View::ByCode::Renderer;
-$Catalyst::View::ByCode::Renderer::VERSION = '0.25';
+$Catalyst::View::ByCode::Renderer::VERSION = '0.26';
 use strict;
 use warnings;
 use base qw(Exporter);
